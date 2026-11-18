@@ -1,0 +1,15 @@
+dataset/
+!dataset/download_dataset.py
+!dataset/samples/
+!dataset/samples/.gitkeep
+!dataset/samples/*.BMP
+!dataset/samples/*.bmp
+*.BMP
+*.bmp
+!dataset/samples/*.BMP
+!dataset/samples/*.bmp
+__pycache__/
+*.pyc
+*.o
+sim_cnn
+test_hls
